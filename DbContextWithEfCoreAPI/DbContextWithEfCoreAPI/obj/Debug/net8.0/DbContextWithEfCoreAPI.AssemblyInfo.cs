@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbContextWithEfCoreAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7d72f3e32691ab218463cdba92ed254897758e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc8a89845765fcdf929df53c82ce133dd74d2829")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbContextWithEfCoreAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbContextWithEfCoreAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

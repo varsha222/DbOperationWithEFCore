@@ -6,6 +6,7 @@ namespace DbContextWithEfCoreAPI
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            builder.Services.AppDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Appdb")));
 
             // Add services to the container.
 
